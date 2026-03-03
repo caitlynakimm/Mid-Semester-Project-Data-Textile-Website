@@ -1,1 +1,1 @@
-# Mid-Semester-Project: Digital Textile Website
+# Mid-Semester-Project: Data Textile Website
